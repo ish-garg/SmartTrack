@@ -1,2 +1,2 @@
 # SmartTrack
-A logistics tracking webapp
+A logistics tracking webapp. Made using flutter.
